@@ -1,0 +1,6 @@
+# Ignore system/cache files
+AppData/
+.vscode/
+*.bin
+*.tmp
+*.log
